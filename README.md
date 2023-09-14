@@ -63,9 +63,15 @@ Deploy the model as a web service or integrate it into other applications for re
 The project structure is organized as follows:
 
 data/: Directory for storing datasets and data preprocessing scripts.
+
 models/: Contains the trained summarization models and model definition scripts.
+
 src/: Source code for the text summarization system.
+
 scripts/: Utility scripts for training, inference, and evaluation.
+
 config/: Configuration files for model hyperparameters and system settings.
+
 notebooks/: Jupyter notebooks for experimentation and analysis.
+
 tests/: Unit tests and test data for validating the codebase.
